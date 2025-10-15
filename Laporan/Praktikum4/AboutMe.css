@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    background-color:rgb(166, 146, 245);
+    margin: 30px;
+}
+.profil {
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(108, 85, 241);
+    padding: 20px;
+    width: 400px;
+}
+img {
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 15px;
+}
+h2 {
+    text-align: center;
+    color: rgb(94, 86, 207);
+}
+b {
+    color: black;
+}
+p {
+    color: rgb(97, 89, 158);
+}

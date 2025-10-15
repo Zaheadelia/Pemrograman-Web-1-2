@@ -1,0 +1,19 @@
+body {
+    background: url(foto1.jpeg) no-repeat;
+    background-size: cover;
+    font-family: Georgia;
+}
+h1 {
+    background-color: rgb(171, 182, 234);
+    text-align: center;
+    color: white;
+}
+h2 {
+    color: rgb(114, 221, 67);
+    font-size: 25px;
+}
+p {
+   margin-left: 50px;
+   color: rgb(244, 245, 251);
+   font-size: 24px; 
+}
